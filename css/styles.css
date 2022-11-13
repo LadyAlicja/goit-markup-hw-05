@@ -791,7 +791,7 @@ ul.aplications-list > li > div > img {
 }
 
 .is-hidden {
-  transform: translateX(-100%);
+  transform: translateY(100%);
 }
 
 .modal {
